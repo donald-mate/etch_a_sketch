@@ -1,0 +1,1 @@
+This is an etch-a-sketch project from The Odin Project. Details and instructions can be viewed here: https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project
